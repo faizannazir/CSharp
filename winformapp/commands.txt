@@ -1,0 +1,5 @@
+
+->dotnet new --list
+    this will list available templates
+->dotnet new winforms -f{f stand for framework} (.net version) -o [outputfolder]
+       winform app creation

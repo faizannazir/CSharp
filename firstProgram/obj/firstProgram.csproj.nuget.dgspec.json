@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\compu\\Desktop\\C#\\firstProgram\\firstProgram.csproj": {}
+    "F:\\Desktop folders\\CSharp\\firstProgram\\firstProgram.csproj": {}
   },
   "projects": {
-    "C:\\Users\\compu\\Desktop\\C#\\firstProgram\\firstProgram.csproj": {
+    "F:\\Desktop folders\\CSharp\\firstProgram\\firstProgram.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\compu\\Desktop\\C#\\firstProgram\\firstProgram.csproj",
+        "projectUniqueName": "F:\\Desktop folders\\CSharp\\firstProgram\\firstProgram.csproj",
         "projectName": "firstProgram",
-        "projectPath": "C:\\Users\\compu\\Desktop\\C#\\firstProgram\\firstProgram.csproj",
+        "projectPath": "F:\\Desktop folders\\CSharp\\firstProgram\\firstProgram.csproj",
         "packagesPath": "C:\\Users\\compu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\compu\\Desktop\\C#\\firstProgram\\obj\\",
+        "outputPath": "F:\\Desktop folders\\CSharp\\firstProgram\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\compu\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -52,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }

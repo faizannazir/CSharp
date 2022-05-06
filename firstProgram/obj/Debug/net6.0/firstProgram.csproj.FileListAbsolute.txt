@@ -13,3 +13,18 @@ C:\Users\compu\Desktop\C#\firstProgram\obj\Debug\net6.0\refint\firstProgram.dll
 C:\Users\compu\Desktop\C#\firstProgram\obj\Debug\net6.0\firstProgram.pdb
 C:\Users\compu\Desktop\C#\firstProgram\obj\Debug\net6.0\firstProgram.genruntimeconfig.cache
 C:\Users\compu\Desktop\C#\firstProgram\obj\Debug\net6.0\ref\firstProgram.dll
+F:\Desktop folders\CSharp\firstProgram\obj\Debug\net6.0\firstProgram.csproj.AssemblyReference.cache
+F:\Desktop folders\CSharp\firstProgram\obj\Debug\net6.0\firstProgram.GeneratedMSBuildEditorConfig.editorconfig
+F:\Desktop folders\CSharp\firstProgram\obj\Debug\net6.0\firstProgram.AssemblyInfoInputs.cache
+F:\Desktop folders\CSharp\firstProgram\obj\Debug\net6.0\firstProgram.AssemblyInfo.cs
+F:\Desktop folders\CSharp\firstProgram\obj\Debug\net6.0\firstProgram.csproj.CoreCompileInputs.cache
+F:\Desktop folders\CSharp\firstProgram\obj\Debug\net6.0\firstProgram.dll
+F:\Desktop folders\CSharp\firstProgram\obj\Debug\net6.0\refint\firstProgram.dll
+F:\Desktop folders\CSharp\firstProgram\obj\Debug\net6.0\firstProgram.pdb
+F:\Desktop folders\CSharp\firstProgram\bin\Debug\net6.0\firstProgram.exe
+F:\Desktop folders\CSharp\firstProgram\bin\Debug\net6.0\firstProgram.deps.json
+F:\Desktop folders\CSharp\firstProgram\bin\Debug\net6.0\firstProgram.runtimeconfig.json
+F:\Desktop folders\CSharp\firstProgram\bin\Debug\net6.0\firstProgram.dll
+F:\Desktop folders\CSharp\firstProgram\bin\Debug\net6.0\firstProgram.pdb
+F:\Desktop folders\CSharp\firstProgram\obj\Debug\net6.0\firstProgram.genruntimeconfig.cache
+F:\Desktop folders\CSharp\firstProgram\obj\Debug\net6.0\ref\firstProgram.dll

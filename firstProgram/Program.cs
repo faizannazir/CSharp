@@ -1,28 +1,49 @@
 ﻿// question 11
+// using System;
+// namespace classwork
+// {
+//     class Practice
+//    {
+//     static void Main(string[] args)
+//     {
+//        int a=2;
+//        if(a>1) //here we used greater then > operator
+//        {
+//            Console.WriteLine("2 is greater then 1");
+//        }
+//         not equal to
+//         if(a<4)  //here we used less then operaor<
+//         {
+//             Console.WriteLine("2 is less then 4");
+//         }
+
+//     }
+//    } 
+// }
+
+//Anonymous class
 using System;
-namespace classwork
+namespace Class
 {
-    class Practice
+    static class Hello
    {
-    static void Main(string[] args)
-    {
-       int a=2;
-       if(a>1) //here we used greater then > operator
+       static Hello()
        {
-           Console.WriteLine("2 is greater then 1");
-       }
-        //not equal to
-        if(a<4)  //here we used less then operaor<
-        {
-            Console.WriteLine("2 is less then 4");
         }
+        static int a =10;
+        static int hello()
+        {
+            return a;
+        }
+        static void Main(string[] args)
+    {
+       var obj = new{ Name= "Faizan",Age = 47};
+      Console.WriteLine(obj.Age + Hello.a);
+     
 
     }
    } 
 }
-
-
-
 
 
 

@@ -1,0 +1,15 @@
+F:\Desktop folders\CSharp\winformapp\firstWinform\bin\Debug\net6.0-windows\CSharp.exe
+F:\Desktop folders\CSharp\winformapp\firstWinform\bin\Debug\net6.0-windows\CSharp.deps.json
+F:\Desktop folders\CSharp\winformapp\firstWinform\bin\Debug\net6.0-windows\CSharp.runtimeconfig.json
+F:\Desktop folders\CSharp\winformapp\firstWinform\bin\Debug\net6.0-windows\CSharp.dll
+F:\Desktop folders\CSharp\winformapp\firstWinform\bin\Debug\net6.0-windows\CSharp.pdb
+F:\Desktop folders\CSharp\winformapp\firstWinform\obj\Debug\net6.0-windows\CSharp.csproj.AssemblyReference.cache
+F:\Desktop folders\CSharp\winformapp\firstWinform\obj\Debug\net6.0-windows\CSharp.GeneratedMSBuildEditorConfig.editorconfig
+F:\Desktop folders\CSharp\winformapp\firstWinform\obj\Debug\net6.0-windows\CSharp.AssemblyInfoInputs.cache
+F:\Desktop folders\CSharp\winformapp\firstWinform\obj\Debug\net6.0-windows\CSharp.AssemblyInfo.cs
+F:\Desktop folders\CSharp\winformapp\firstWinform\obj\Debug\net6.0-windows\CSharp.csproj.CoreCompileInputs.cache
+F:\Desktop folders\CSharp\winformapp\firstWinform\obj\Debug\net6.0-windows\CSharp.dll
+F:\Desktop folders\CSharp\winformapp\firstWinform\obj\Debug\net6.0-windows\refint\CSharp.dll
+F:\Desktop folders\CSharp\winformapp\firstWinform\obj\Debug\net6.0-windows\CSharp.pdb
+F:\Desktop folders\CSharp\winformapp\firstWinform\obj\Debug\net6.0-windows\CSharp.genruntimeconfig.cache
+F:\Desktop folders\CSharp\winformapp\firstWinform\obj\Debug\net6.0-windows\ref\CSharp.dll
