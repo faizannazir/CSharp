@@ -1,0 +1,15 @@
+C:\Users\compu\Desktop\BSCS6A\VP\Assignment3\Assignment3\bin\Debug\net6.0\Assignment3.exe
+C:\Users\compu\Desktop\BSCS6A\VP\Assignment3\Assignment3\bin\Debug\net6.0\Assignment3.deps.json
+C:\Users\compu\Desktop\BSCS6A\VP\Assignment3\Assignment3\bin\Debug\net6.0\Assignment3.runtimeconfig.json
+C:\Users\compu\Desktop\BSCS6A\VP\Assignment3\Assignment3\bin\Debug\net6.0\Assignment3.dll
+C:\Users\compu\Desktop\BSCS6A\VP\Assignment3\Assignment3\bin\Debug\net6.0\Assignment3.pdb
+C:\Users\compu\Desktop\BSCS6A\VP\Assignment3\Assignment3\obj\Debug\net6.0\Assignment3.csproj.AssemblyReference.cache
+C:\Users\compu\Desktop\BSCS6A\VP\Assignment3\Assignment3\obj\Debug\net6.0\Assignment3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\compu\Desktop\BSCS6A\VP\Assignment3\Assignment3\obj\Debug\net6.0\Assignment3.AssemblyInfoInputs.cache
+C:\Users\compu\Desktop\BSCS6A\VP\Assignment3\Assignment3\obj\Debug\net6.0\Assignment3.AssemblyInfo.cs
+C:\Users\compu\Desktop\BSCS6A\VP\Assignment3\Assignment3\obj\Debug\net6.0\Assignment3.csproj.CoreCompileInputs.cache
+C:\Users\compu\Desktop\BSCS6A\VP\Assignment3\Assignment3\obj\Debug\net6.0\Assignment3.dll
+C:\Users\compu\Desktop\BSCS6A\VP\Assignment3\Assignment3\obj\Debug\net6.0\refint\Assignment3.dll
+C:\Users\compu\Desktop\BSCS6A\VP\Assignment3\Assignment3\obj\Debug\net6.0\Assignment3.pdb
+C:\Users\compu\Desktop\BSCS6A\VP\Assignment3\Assignment3\obj\Debug\net6.0\Assignment3.genruntimeconfig.cache
+C:\Users\compu\Desktop\BSCS6A\VP\Assignment3\Assignment3\obj\Debug\net6.0\ref\Assignment3.dll

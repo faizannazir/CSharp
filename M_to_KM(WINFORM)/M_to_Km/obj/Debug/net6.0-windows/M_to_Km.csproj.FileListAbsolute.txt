@@ -1,0 +1,17 @@
+C:\Users\compu\Desktop\BSCS6A\VP\M_to_KM\M_to_Km\bin\Debug\net6.0-windows\M_to_Km.exe
+C:\Users\compu\Desktop\BSCS6A\VP\M_to_KM\M_to_Km\bin\Debug\net6.0-windows\M_to_Km.deps.json
+C:\Users\compu\Desktop\BSCS6A\VP\M_to_KM\M_to_Km\bin\Debug\net6.0-windows\M_to_Km.runtimeconfig.json
+C:\Users\compu\Desktop\BSCS6A\VP\M_to_KM\M_to_Km\bin\Debug\net6.0-windows\M_to_Km.dll
+C:\Users\compu\Desktop\BSCS6A\VP\M_to_KM\M_to_Km\bin\Debug\net6.0-windows\M_to_Km.pdb
+C:\Users\compu\Desktop\BSCS6A\VP\M_to_KM\M_to_Km\obj\Debug\net6.0-windows\M_to_Km.csproj.AssemblyReference.cache
+C:\Users\compu\Desktop\BSCS6A\VP\M_to_KM\M_to_Km\obj\Debug\net6.0-windows\M_to_Km.Form1.resources
+C:\Users\compu\Desktop\BSCS6A\VP\M_to_KM\M_to_Km\obj\Debug\net6.0-windows\M_to_Km.csproj.GenerateResource.cache
+C:\Users\compu\Desktop\BSCS6A\VP\M_to_KM\M_to_Km\obj\Debug\net6.0-windows\M_to_Km.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\compu\Desktop\BSCS6A\VP\M_to_KM\M_to_Km\obj\Debug\net6.0-windows\M_to_Km.AssemblyInfoInputs.cache
+C:\Users\compu\Desktop\BSCS6A\VP\M_to_KM\M_to_Km\obj\Debug\net6.0-windows\M_to_Km.AssemblyInfo.cs
+C:\Users\compu\Desktop\BSCS6A\VP\M_to_KM\M_to_Km\obj\Debug\net6.0-windows\M_to_Km.csproj.CoreCompileInputs.cache
+C:\Users\compu\Desktop\BSCS6A\VP\M_to_KM\M_to_Km\obj\Debug\net6.0-windows\M_to_Km.dll
+C:\Users\compu\Desktop\BSCS6A\VP\M_to_KM\M_to_Km\obj\Debug\net6.0-windows\refint\M_to_Km.dll
+C:\Users\compu\Desktop\BSCS6A\VP\M_to_KM\M_to_Km\obj\Debug\net6.0-windows\M_to_Km.pdb
+C:\Users\compu\Desktop\BSCS6A\VP\M_to_KM\M_to_Km\obj\Debug\net6.0-windows\M_to_Km.genruntimeconfig.cache
+C:\Users\compu\Desktop\BSCS6A\VP\M_to_KM\M_to_Km\obj\Debug\net6.0-windows\ref\M_to_Km.dll

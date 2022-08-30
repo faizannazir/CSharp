@@ -1,0 +1,15 @@
+E:\University\CSharp\C#interface\samemethod\obj\Debug\net6.0\samemethod.csproj.AssemblyReference.cache
+E:\University\CSharp\C#interface\samemethod\obj\Debug\net6.0\samemethod.GeneratedMSBuildEditorConfig.editorconfig
+E:\University\CSharp\C#interface\samemethod\obj\Debug\net6.0\samemethod.AssemblyInfoInputs.cache
+E:\University\CSharp\C#interface\samemethod\obj\Debug\net6.0\samemethod.AssemblyInfo.cs
+E:\University\CSharp\C#interface\samemethod\obj\Debug\net6.0\samemethod.csproj.CoreCompileInputs.cache
+E:\University\CSharp\C#interface\samemethod\bin\Debug\net6.0\samemethod.exe
+E:\University\CSharp\C#interface\samemethod\bin\Debug\net6.0\samemethod.deps.json
+E:\University\CSharp\C#interface\samemethod\bin\Debug\net6.0\samemethod.runtimeconfig.json
+E:\University\CSharp\C#interface\samemethod\bin\Debug\net6.0\samemethod.dll
+E:\University\CSharp\C#interface\samemethod\bin\Debug\net6.0\samemethod.pdb
+E:\University\CSharp\C#interface\samemethod\obj\Debug\net6.0\samemethod.dll
+E:\University\CSharp\C#interface\samemethod\obj\Debug\net6.0\refint\samemethod.dll
+E:\University\CSharp\C#interface\samemethod\obj\Debug\net6.0\samemethod.pdb
+E:\University\CSharp\C#interface\samemethod\obj\Debug\net6.0\samemethod.genruntimeconfig.cache
+E:\University\CSharp\C#interface\samemethod\obj\Debug\net6.0\ref\samemethod.dll

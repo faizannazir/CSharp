@@ -1,0 +1,15 @@
+E:\University\CSharp\C#interface\simpleinterface\obj\Debug\net6.0\simpleinterface.csproj.AssemblyReference.cache
+E:\University\CSharp\C#interface\simpleinterface\obj\Debug\net6.0\simpleinterface.GeneratedMSBuildEditorConfig.editorconfig
+E:\University\CSharp\C#interface\simpleinterface\obj\Debug\net6.0\simpleinterface.AssemblyInfoInputs.cache
+E:\University\CSharp\C#interface\simpleinterface\obj\Debug\net6.0\simpleinterface.AssemblyInfo.cs
+E:\University\CSharp\C#interface\simpleinterface\obj\Debug\net6.0\simpleinterface.csproj.CoreCompileInputs.cache
+E:\University\CSharp\C#interface\simpleinterface\bin\Debug\net6.0\simpleinterface.exe
+E:\University\CSharp\C#interface\simpleinterface\bin\Debug\net6.0\simpleinterface.deps.json
+E:\University\CSharp\C#interface\simpleinterface\bin\Debug\net6.0\simpleinterface.runtimeconfig.json
+E:\University\CSharp\C#interface\simpleinterface\bin\Debug\net6.0\simpleinterface.dll
+E:\University\CSharp\C#interface\simpleinterface\bin\Debug\net6.0\simpleinterface.pdb
+E:\University\CSharp\C#interface\simpleinterface\obj\Debug\net6.0\simpleinterface.dll
+E:\University\CSharp\C#interface\simpleinterface\obj\Debug\net6.0\refint\simpleinterface.dll
+E:\University\CSharp\C#interface\simpleinterface\obj\Debug\net6.0\simpleinterface.pdb
+E:\University\CSharp\C#interface\simpleinterface\obj\Debug\net6.0\simpleinterface.genruntimeconfig.cache
+E:\University\CSharp\C#interface\simpleinterface\obj\Debug\net6.0\ref\simpleinterface.dll
